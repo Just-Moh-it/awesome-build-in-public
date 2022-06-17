@@ -8,6 +8,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - **The submitted project must have a verifiable builder/person who is building in public.**
 - The intent of this list is to gather awesome products/services *that most users would need*. This is not the place for pointless advertisements, or non-public building things.
+- Only add items in their respective groups, alphabetically.
 - Submitted pull requests may include closed/open-source products/services.
 - Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
 - The submissions must be high-quality and competant in their category.
